@@ -10,5 +10,7 @@ generated number within a specified range. Test your luck and logic!<br>
 3. The game will tell you if your guess is too high, too low, or correct.<br>
 4. Keep guessing until you find the right number!<br>
 
-<b>REQUIREMENTS</b><br>
-Python 3.x
+<b>FEATURES</b><br>
+- Random number generation<br>
+- Input validation<br>
+- Feedback on each guess (too high / too low)
